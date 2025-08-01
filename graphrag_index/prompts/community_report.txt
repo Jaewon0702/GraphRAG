@@ -1,0 +1,5 @@
+You are given multiple reports and their descriptions related to communities extracted from a knowledge graph.
+
+Summarize their content, focusing on key topics, community activities, and main findings.
+
+Be concise and clear, while retaining critical information.

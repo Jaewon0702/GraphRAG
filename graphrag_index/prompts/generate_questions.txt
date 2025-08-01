@@ -1,0 +1,2 @@
+Given the entity and its description, generate 3 insightful and challenging questions that a user might ask.
+Focus on factual, relational, or inference-based questions.

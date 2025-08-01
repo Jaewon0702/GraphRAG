@@ -1,0 +1,9 @@
+Given the following entities and their descriptions, write a concise and insightful summary that describes the main theme or topic that unites them as a community.
+
+Entities:
+{entities}
+
+Descriptions:
+{descriptions}
+
+Write your summary below:

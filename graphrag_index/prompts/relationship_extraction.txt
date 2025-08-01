@@ -1,0 +1,6 @@
+Given a set of entities and their descriptions, extract meaningful relationships among them.
+For each relationship, specify:
+- Source entity
+- Target entity
+- Type of relationship
+- Short description

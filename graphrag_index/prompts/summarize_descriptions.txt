@@ -1,0 +1,3 @@
+You are given a set of entity descriptions extracted from a knowledge graph.
+Summarize them in a coherent paragraph, highlighting key entities and their relationships.
+Focus on the most relevant and informative descriptions.
