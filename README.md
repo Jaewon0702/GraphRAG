@@ -1,4 +1,5 @@
 # What is GraphRAG and how it works?
+https://medium.com/@zilliz_learn/graphrag-explained-enhancing-rag-with-knowledge-graphs-3312065f99e1  
 Retrieval Augmented Generation (RAG) is a technique that connects external data sources to enhance the output of large language models (LLMs). This technique is perfect for LLMs to access private or domain-specific data and address hallucination issues. Therefore, RAG has been widely used to power many GenAI applications, such as AI chatbots and recommendation systems.       
 
 A baseline RAG usually integrates a vector database and an LLM, where the vector database stores and retrieves contextual information for user queries, and the LLM generates answers based on the retrieved context. While this approach works well in many cases, it struggles with complex tasks like multi-hop reasoning or answering questions that require connecting disparate pieces of information.    
